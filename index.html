@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="style.css" rel="stylesheet" type="text/css"/>
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{title}}</title>
+</head>
+<body bgcolor="orange">
+<h2> Welcome ERP UK Education New Student Sign UP Here</h2>
+<form action="/signup" method="post">
+    <input type="text" name="user" placeholder="username">
+    <br>
+    <input type="text" name="password" placeholder="password">
+    <br>
+        <input type="text" name="email" placeholder="email">
+    <br>
+
+    <input type="submit">
+</form>
+<h3>Already Student Please sing in here </h3>
+<a href="{{url_for('login')}}">Login</a>
+
+</body>
+</html>
