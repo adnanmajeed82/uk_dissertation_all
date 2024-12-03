@@ -8,6 +8,17 @@ Brief description of the project.
 ## YouTube Video Demo
 
 Watch the video demonstration of this project on YouTube:
+# Project Title
+
+Brief description of the project.
+
+## YouTube Video Demo
+
+Watch the video demonstration of this project on YouTube:
+
+[![YouTube Video](https://img.youtube.com/vi/xw9GyzcLJ_c/0.jpg)](https://www.youtube.com/watch?v=xw9GyzcLJ_c&t=16s)
+
+Click on the image above or [here](https://www.youtube.com/watch?v=xw9GyzcLJ_c&t=16s) to watch the video.
 
 [![YouTube Video](https://img.youtube.com/vi/EnaUDUM9zng/0.jpg)](https://www.youtube.com/watch?v=EnaUDUM9zng&t=120s)
 
