@@ -1,4 +1,4 @@
-# Emial_Spam_Classification
+# Email_SPAM Classification
 # Author Adnan Majeed
 
 # Project Title
